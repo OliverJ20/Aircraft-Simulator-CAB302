@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="exercise" default="build" basedir=".">
+  <!-- Configure paths for this application -->
+  <property name="base" value="AircraftSimulator/bin" />
+  <property name="deploy" value="AircraftSimulator" />
+  <property name="junitJar" value="Q:/programs/junit/junit-4.11.jar" />
+  <property name="hamcrestJar" value="Q:/programs/junit/hamcrest-core-1.3.jar" />
+  <!-- <property name="packageQuest" value="asgn1Question" />
+  <property name="packageSol" value="asgn1Solution" /> -->
+  <property name="doc" value="AircraftSimulator/doc" />
+  
+  
